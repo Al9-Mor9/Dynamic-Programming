@@ -52,8 +52,8 @@ if __name__ == "__main__":
         width, height = 25, 25
         if alph == "P":
             width = 10
-        elif alph == "L":
-            width, height = 100, 100
+        elif alph == "K":
+            width, height = 10, 25
         profile[alph] = '<img src = "https://github.com/' + profile[alph] + f'.png" width="{width}" height="{height}">'
 
     with open("./README.md", 'r', encoding='utf-8') as readme:
