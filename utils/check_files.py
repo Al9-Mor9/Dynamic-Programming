@@ -49,7 +49,12 @@ if __name__ == "__main__":
     }
     
     for alph in profile:
-        profile[alph] = '<img src = "https://github.com/' + profile[alph] + '.png" width="25" height="25">'
+        width, height = 25, 25
+        if alph == "P":
+            width = 10
+        elif alph == "L":
+            width, height = 100, 100
+        profile[alph] = '<img src = "https://github.com/' + profile[alph] + f'.png" width="{width}" height="{height}">'
 
     with open("./README.md", 'r', encoding='utf-8') as readme:
         newReadme = readme.readlines()
