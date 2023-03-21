@@ -1,5 +1,3 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 name: Python application
 
 on:
@@ -31,7 +29,7 @@ jobs:
       run: |
         git add .
         git diff
-        git config --local user.email "sulogc@github.com"
-        git config --local user.name "sulogc"
+        git config --local user.email "Frog-Slayer@github.com"
+        git config --local user.name "Frog-Slayer"
         git commit --allow-empty -m "Automatically Update README.md file"
         git push
