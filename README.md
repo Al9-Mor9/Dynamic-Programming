@@ -31,7 +31,7 @@ Optimal Substructure(최적 부분 구조) + Overlapping Subproblems(부분 문�
 + M - [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)   
 + N - [9252 LCS 2](https://www.acmicpc.net/problem/9252)   
 + O - [5626 제단](https://www.acmicpc.net/problem/5626)
-+ P - [2448 전구](https://www.acmicpc.net/problem/2448)
++ P - [2449 전구](https://www.acmicpc.net/problem/2449)
 + Q - [11062 카드 게임](https://www.acmicpc.net/problem/11062)
 + R - [2342 Dance Dance Revolution](https://www.acmicpc.net/problem/2342)
 + S - [2098 외판원 순회](https://www.acmicpc.net/problem/2098)
