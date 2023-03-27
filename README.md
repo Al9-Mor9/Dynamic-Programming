@@ -20,7 +20,7 @@ Optimal Substructure(최적 부분 구조) + Overlapping Subproblems(부분 문�
 + G - (P3) [산책	5573](https://www.acmicpc.net/problem/5573)[<img src = "https://github.com/Frog-Slayer.png" width="(50, 50)" height="25">](./Code/5573/5573_P.cpp)
 
 동적계획법 1
-+ A - [1932 정수 삼각형 1932](https://www.acmicpc.net/problem/1932)    
++ A - [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)    
 + B - [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)    
 + C - [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)    
 + D - [2579 계단 오르기](https://www.acmicpc.net/problem/2579)    
