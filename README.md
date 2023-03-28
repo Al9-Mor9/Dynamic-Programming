@@ -26,7 +26,7 @@ Optimal Substructure(최적 부분 구조) + Overlapping Subproblems(부분 문�
 + R - (G3) [2342 Dance Dance Revolution](https://www.acmicpc.net/problem/2342)
 + 
 ### :fire: 난이도 (上)
-+ G - (P3) [산책	5573](https://www.acmicpc.net/problem/5573)[<img src = "https://github.com/Frog-Slayer.png" width="(50, 50)" height="25">](./Code/5573/5573_P.cpp)
++ G - (P3) [산책	5573](https://www.acmicpc.net/problem/5573)[<img src = "https://github.com/Frog-Slayer.png" width="(50, 50)" height="25">](./Code/5573/5573_P.cpp)[<img src = "https://github.com/Frog-Slayer.png" width="50" height="25">](./Code/5573/5573_P.cpp)
 + K - (P5) [14003 가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)   
 + O - (P4) [5626 제단](https://www.acmicpc.net/problem/5626)
 + P - (P3) [2449 전구](https://www.acmicpc.net/problem/2449)
