@@ -51,7 +51,7 @@ if __name__ == "__main__":
     for alph in profile:
         width, height = 25, 25
         if alph == "P":
-            width = 50, 50
+            width = 50
         elif alph == "K":
             width, height = 100, 100
         elif alph == "H":
