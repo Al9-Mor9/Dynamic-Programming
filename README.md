@@ -21,7 +21,7 @@ Optimal Substructure(최적 부분 구조) + Overlapping Subproblems(부분 문�
 + J - (G3) [11049 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)[<img src = "https://github.com/Haaarimmm.png" width="100" height="100">](./Code/11049/11049_K.py)[<img src = "https://github.com/wocjs.png" width="10" height="25">](./Code/11049/11049_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="50" height="25">](./Code/11049/11049_P.cpp)
 + L - (G3) [7579 앱](https://www.acmicpc.net/problem/7579)[<img src = "https://github.com/Haaarimmm.png" width="100" height="100">](./Code/7579/7579_K.py)
 + M - (G5) [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)[<img src = "https://github.com/wocjs.png" width="10" height="25">](./Code/5582/5582_H.py)[<img src = "https://github.com/Haaarimmm.png" width="100" height="100">](./Code/5582/5582_K.py)
-+ N - (G4) [9252 LCS 2](https://www.acmicpc.net/problem/9252)[<img src = "https://github.com/wocjs.png" width="10" height="25">](./Code/9252/9252_H.py)
++ N - (G4) [9252 LCS 2](https://www.acmicpc.net/problem/9252)[<img src = "https://github.com/wocjs.png" width="10" height="25">](./Code/9252/9252_H.py)[<img src = "https://github.com/Haaarimmm.png" width="100" height="100">](./Code/9252/9252_K.py)
 + Q - (G3) [11062 카드 게임](https://www.acmicpc.net/problem/11062)
 + R - (G3) [2342 Dance Dance Revolution](https://www.acmicpc.net/problem/2342)
 + 
