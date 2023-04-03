@@ -10,12 +10,7 @@ long long max(long long a, long long b) {
 	return a > b ? a : b;
 }
 
-long long min(long long a, long long b){
-    return a < b ? a : b;
-}
-
 int main(){
-
 	scanf("%d", &N);
 	for (int i = 0; i < N; i++){
 		scanf("%lld", &A[i]);
@@ -28,10 +23,10 @@ int main(){
             else if (len == 1) dp[i][j] = max(A[i], A[j]); 
 			else {
                 pair<int, int> case1, case2; //맨 앞에거 가져 갔다고 하자
-                if (A[i+1] > A[j]) case1 = {(i + 2) % N, j};
+                if (A[(i + 1) % N] > A[j]) case1 = {(i + 2) % N, j};
                 else case1 = {(i + 1) % N, (j - 1 + N) % N};
 
-                if (A[i] > A[j-1]) case2 = {(i + 1) % N, j - 1};
+                if (A[i] > A[(j-1 + N) % N]) case2 = {(i + 1) % N, (j - 1 + N) % N};//맨 뒤에거 가져 간 경우
                 else case2 = {i, (j - 2 + N) % N };
 
                 dp[i][j] = max(dp[i][i] + dp[case1.first][case1.second], dp[j][j] + dp[case2.first][case2.second]); 
