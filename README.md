@@ -34,6 +34,6 @@ Optimal Substructure(최적 부분 구조) + Overlapping Subproblems(부분 문�
 + T - (P5) [1102 발전소](https://www.acmicpc.net/problem/1102)
 + U - (P4) [2618 경찰차](https://www.acmicpc.net/problem/2618)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/2618/b2618_L.java)
 + V - (P5) [7578 공장](https://www.acmicpc.net/problem/7578)
-+ W - (G2) [10714 케이크 자르기 2](https://www.acmicpc.net/problem/10714)
++ W - (G2) [10714 케이크 자르기 2](https://www.acmicpc.net/problem/10714)[<img src = "https://github.com/Frog-Slayer.png" width="50" height="25">](./Code/10714/10714_P.cpp)
   
 
