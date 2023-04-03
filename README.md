@@ -27,7 +27,7 @@ Optimal Substructure(최적 부분 구조) + Overlapping Subproblems(부분 문�
 + 
 ### :fire: 난이도 (上)
 + G - (P3) [산책	5573](https://www.acmicpc.net/problem/5573)[<img src = "https://github.com/Frog-Slayer.png" width="50" height="25">](./Code/5573/5573_P.cpp)
-+ K - (P5) [14003 가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)   
++ K - (P5) [14003 가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)[<img src = "https://github.com/wocjs.png" width="10" height="25">](./Code/14003/14003_H.py)
 + O - (P4) [5626 제단](https://www.acmicpc.net/problem/5626)
 + P - (P3) [2449 전구](https://www.acmicpc.net/problem/2449)
 + S - (G1) [2098 외판원 순회](https://www.acmicpc.net/problem/2098)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/2098/b2098_L.java)[<img src = "https://github.com/Frog-Slayer.png" width="50" height="25">](./Code/2098/2098_P.cpp)
