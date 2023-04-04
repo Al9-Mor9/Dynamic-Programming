@@ -23,7 +23,7 @@ Optimal Substructure(최적 부분 구조) + Overlapping Subproblems(부분 문�
 + M - (G5) [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)[<img src = "https://github.com/wocjs.png" width="10" height="25">](./Code/5582/5582_H.py)[<img src = "https://github.com/Haaarimmm.png" width="100" height="100">](./Code/5582/5582_K.py)
 + N - (G4) [9252 LCS 2](https://www.acmicpc.net/problem/9252)[<img src = "https://github.com/wocjs.png" width="10" height="25">](./Code/9252/9252_H.py)[<img src = "https://github.com/Haaarimmm.png" width="100" height="100">](./Code/9252/9252_K.py)
 + Q - (G3) [11062 카드 게임](https://www.acmicpc.net/problem/11062)[<img src = "https://github.com/Frog-Slayer.png" width="50" height="25">](./Code/11062/11062_P.cpp)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/11062/11062_L.py)
-+ R - (G3) [2342 Dance Dance Revolution](https://www.acmicpc.net/problem/2342)
++ R - (G3) [2342 Dance Dance Revolution](https://www.acmicpc.net/problem/2342)[<img src = "https://github.com/wocjs.png" width="10" height="25">](./Code/2342/2342_H.py)
 + 
 ### :fire: 난이도 (上)
 + G - (P3) [산책	5573](https://www.acmicpc.net/problem/5573)[<img src = "https://github.com/Frog-Slayer.png" width="50" height="25">](./Code/5573/5573_P.cpp)
